@@ -2,6 +2,8 @@
 
 :root {
     --font-base: "Open Sans", sans-serif;
+    --font-color: rgb(216, 222, 229);
+    --font-color-hover: rgb(176, 182, 189)
 
     /*--primary-color: #edf2ff;*/
     /*--secondary-color: #266390;*/

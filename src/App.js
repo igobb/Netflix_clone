@@ -1,9 +1,14 @@
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
+import { Navbar } from './Components/index'
+import { Movies } from "./Container";
 
+function App() {
+
+  return (
+    <div className="app">
+      <Navbar/>
+        <Movies/>
     </div>
   );
 }
